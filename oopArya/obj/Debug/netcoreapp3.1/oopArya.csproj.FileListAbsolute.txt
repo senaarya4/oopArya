@@ -1,0 +1,14 @@
+C:\Users\Arya\source\repos\oopArya\oopArya\bin\Debug\netcoreapp3.1\oopArya.exe
+C:\Users\Arya\source\repos\oopArya\oopArya\bin\Debug\netcoreapp3.1\oopArya.deps.json
+C:\Users\Arya\source\repos\oopArya\oopArya\bin\Debug\netcoreapp3.1\oopArya.runtimeconfig.json
+C:\Users\Arya\source\repos\oopArya\oopArya\bin\Debug\netcoreapp3.1\oopArya.runtimeconfig.dev.json
+C:\Users\Arya\source\repos\oopArya\oopArya\bin\Debug\netcoreapp3.1\oopArya.dll
+C:\Users\Arya\source\repos\oopArya\oopArya\bin\Debug\netcoreapp3.1\oopArya.pdb
+C:\Users\Arya\source\repos\oopArya\oopArya\obj\Debug\netcoreapp3.1\oopArya.csproj.AssemblyReference.cache
+C:\Users\Arya\source\repos\oopArya\oopArya\obj\Debug\netcoreapp3.1\oopArya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arya\source\repos\oopArya\oopArya\obj\Debug\netcoreapp3.1\oopArya.AssemblyInfoInputs.cache
+C:\Users\Arya\source\repos\oopArya\oopArya\obj\Debug\netcoreapp3.1\oopArya.AssemblyInfo.cs
+C:\Users\Arya\source\repos\oopArya\oopArya\obj\Debug\netcoreapp3.1\oopArya.csproj.CoreCompileInputs.cache
+C:\Users\Arya\source\repos\oopArya\oopArya\obj\Debug\netcoreapp3.1\oopArya.dll
+C:\Users\Arya\source\repos\oopArya\oopArya\obj\Debug\netcoreapp3.1\oopArya.pdb
+C:\Users\Arya\source\repos\oopArya\oopArya\obj\Debug\netcoreapp3.1\oopArya.genruntimeconfig.cache
